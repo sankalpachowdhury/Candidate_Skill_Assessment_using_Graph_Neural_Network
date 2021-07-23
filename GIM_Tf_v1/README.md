@@ -1,6 +1,4 @@
-# GIKT
-
-The code is related to the paper `GIKT: A Graph-based Interaction Model for Knowledge Tracing` published at ECML-PKDD 2020 [Paper in arXiv](https://arxiv.org/abs/2009.05991).
+# GIM
 
 
 ## Datasets
@@ -33,4 +31,4 @@ python main.py --dataset assist09_3 --n_hop 3 --skill_neighbor_num 4 --question_
 ```
 
 If you have more questions about our experiments, you can contact us. 
-email: yyang0324@sjtu.edu.cn
+email: sankalpachowdhury12@gmail.com
